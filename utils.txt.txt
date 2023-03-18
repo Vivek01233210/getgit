@@ -3,5 +3,5 @@ coordinating work among programmers collaboratively developing source code durin
 include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches 
 running on different systems).
 
-this is utility function for version 5 of the software.
+this is utility function for version 6 of the software.
 changes commited in github.
